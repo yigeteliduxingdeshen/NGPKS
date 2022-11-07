@@ -12,7 +12,7 @@ To better predict miRNA-disease association, we propose a Non-linear Gaussian Pr
 | miRNA name.csv      | Names of all miRNAs in the m-m file                                                           | 
 | disease name.csv    | Names of all disease in the d-d file                                                          |
 
-#NGPKS
+
 NGPKS:  Non-linear Gaussian profile kernel Similarity and Convolutional Networks for miRNA-disease association prediction. 
 
 # Requirements
